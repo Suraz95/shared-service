@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "express-validator": "^7.2.1",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "shared-utils": "git+https://github.com/Suraz95/shared-service.git"
   }
 }
